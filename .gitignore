@@ -1,6 +1,8 @@
 
 *.tar.gz
 Dataset/
+*.zip
+data/
 
 #official python gitignore
 # Byte-compiled / optimized / DLL files
